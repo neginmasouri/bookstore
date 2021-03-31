@@ -1,0 +1,25 @@
+.cart{
+    width: 300px;
+    border:1px solid #86838d;
+    margin-left: 1rem;
+    text-align: center;
+    background: linear-gradient(to right, rgba(62, 145, 134, 0), rgb(116, 36, 161));
+}
+.cart h5{
+    color: #fff
+}
+.fa-shopping-basket{
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+.delete-btn{
+    font:inherit;
+    background-color: #bb0e0e;
+    color: #fff;
+    outline: none;
+    border:none;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px;
+}

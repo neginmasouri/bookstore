@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Dog Man",
+        "price":7.4,
+        "author":"Dav pilky",
+        "image":"../../img/1.jpg",
+        "id":"1"
+
+    },
+    {
+        "name":"It is not easy being a bunny!",
+        "price":5.3,
+        "author":"Marilyn sadler",
+        "image":"../../img/2.jpg",
+        "id":"2"
+    },
+    {
+        "name":"If animals kissed good night",
+        "price":6.2,
+        "author":"Ann whitford paul",
+        "image":"../../img/3.jpg",
+        "id":"3"
+    },
+    {
+        "name":"The very hungry caterpilar",
+        "price":4.3,
+        "author":"Eric carle",
+        "image":"../../img/4.jpg",
+        "id":"4"
+    }
+
+]
