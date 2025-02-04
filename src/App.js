@@ -10,7 +10,7 @@ const App = () => {
         <h2>Online Bookstore</h2>
         <Cart />
         <BookShop />
-      </div>
+ 
     </InfoProvider>
   );
 };
